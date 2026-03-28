@@ -2,12 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20I'm%20Mohamed%20Bashir%20👋&fontSize=36&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Mobile%20%26%20Web%20Enthusiast&descSize=20&descAlign=62" alt="welcome banner"/>
 </p>
--->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> <!-- animated hand wave -->
-  <img src="https://avatars.githubusercontent.com/u/110197129?v=4" width="100" style="border-radius: 50%; margin-left: 10px;" /> <!-- your profile image -->
-</p>
+--> 
 
 <h1 align="center">Hi there, I'm Mohamed Bashir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h3 align="center">🚀 Full Stack Developer | Mobile & Web Application Specialist</h3>
@@ -57,10 +52,17 @@
 
 ### 🔥 GitHub Streaks, Stats & More
 
+Want to see my true developer consistency in action?  
+- The “Streak” card below increases when I make contributions on consecutive days.  
+  - If I code, push, or contribute today, the streak goes up by 1.
+  - If I miss a day, the streak resets to 0—then starts counting again next time I contribute!
+- The “Stats” card tracks GitHub stars, commits, and more in real time.
+- “Top Languages” shows my most-used programming languages based on my public repos.
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedbashirnux&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbashirnux&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashirnux&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://streak-stats.demolab.com/?user=mohamedbashirnux&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbashirnux&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashirnux&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
