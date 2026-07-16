@@ -4,7 +4,7 @@
 </p>
 --> 
 
-<h1 align="center">Hi there, I'm Mohamed Bashir <img src="https://media.giphy.com/media/hvRJCLFZjcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi there, I'm Mohamed-Amiin Bashir <img src="https://media.giphy.com/media/hvRJCLFZjcasrR4ia7z/giphy.gif" width="28"></h1>
 <h3 align="center">🤩 Full Stack Developer | Mobile & Web Application Specialist</h3>
 
 <p align="center">
