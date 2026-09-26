@@ -10,7 +10,7 @@ Building fast, scalable, and beautiful applications.
 
 <br/>
 
-[🌐 Portfolio](#) • [💼 LinkedIn](https://www.linkedin.com/in/mohamed-bashir-244365251/) • [✉️ Email](mailto:mohamedbashirnuh@gmail.com)
+[🌐 Portfolio](https://mohamedbashirnuh.workers.dev) • [💼 LinkedIn](https://www.linkedin.com/in/mohamed-bashir-244365251/) • [✉️ Email](mailto:mohamedbashirnuh@gmail.com)
 
 </div>
 
