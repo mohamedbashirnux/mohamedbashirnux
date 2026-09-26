@@ -1,86 +1,70 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=200&section=header&text=Mohamed%20Bashir&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+<!-- Profile banner or GIFs (optional!)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20I'm%20Mohamed%20Bashir%20🤓&fontSize=36&fontAlign=35&desc=Full%20Stack%20Dev%20%7C%20Mobile%20%26%20Web%20Apps&fontColor=ffffff" />
+</p>
+-->
 
-<div align="center">
+<h1 align="center">Hi there, I'm Mohamed-Amiin Bashir <img src="https://media.giphy.com/media/hvRJCLFZjcasrR4ia7z/giphy.gif" width="28"></h1>
+<h3 align="center">🤩 Full Stack Developer | Mobile & Web Application Specialist</h3>
 
-### 💻 Full Stack Developer | Mobile & Web Specialist
-
-```
-Building fast, scalable, and beautiful applications.
-```
-
-<br/>
-
-[🌐 Portfolio](https://mohamedbashirnuh.workers.dev) • [💼 LinkedIn](https://www.linkedin.com/in/mohamed-bashir-244365251/) • [✉️ Email](mailto:mohamedbashirnuh@gmail.com)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const developer = {
-  name: "Mohamed-Amiin Bashir",
-  passion: "Creating elegant solutions to complex problems",
-  learning: "Always exploring new technologies",
-  motto: "Code. Ship. Repeat."
-}
-```
-
-- ⚡ Full-stack developer specializing in **mobile & web applications**
-- 🎯 Focused on **clean code**, **performance**, and **user experience**
-- 🧠 Constantly learning and experimenting with cutting-edge tech
-- 🔥 Love building projects that actually matter
+<p align="center">
+  <a href="https://github.com/mohamedbashirnux">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Full%20Stack%20Dev;Mobile%20%26%20Web%20Specialist;Always%20Learning%20and%20Coding;Problem%20Solver%20%F0%9F%92%BB&center=true&width=500&height=60&color=0ea5e9&vCenter=true" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 About Me
 
-<div align="center">
-
-### Languages & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-
-</div>
+- 🌱 Always learning and never bored!
+- 💡 Exploring, experimenting, and pushing boundaries in tech.
+- 👨‍💻 Coding is my hobby, my job, and my lifestyle.
+- 🚀 Problem solver and tech explorer.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbashirnux&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashirnux&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamedbashirnux&theme=radical&hide_border=true&background=0d1117)
-
-</div>
+### 🛠 Tech Toolbox
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=figma,redux,python,java,androidstudio,vite" height="28"/>
+</p>
 
 ---
 
-<div align="center">
+## 🤝 Find Me Online
 
-### 🌟 Let's collaborate and build something awesome together!
+<p>
+  <a href="mailto:mohamedbashirnuh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-bashir-244365251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=100&section=footer&animation=fadeIn" />
+## 📈 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohamedbashirnux&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbashirnux&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashirnux&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<!-- You can optionally add other social links here -->
